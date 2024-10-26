@@ -10,5 +10,5 @@ The Bankist app is a demo banking website developed as part of a web development
 - **Technologies Used**: HTML, CSS, JavaScript.
 
 This project was developed following a course by jonasschmedtmann.
-Live Demo: https://bankist.netlify.app
+Website link: https://bankist.netlify.app
 
